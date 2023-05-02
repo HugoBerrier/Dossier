@@ -1,0 +1,59 @@
+.btn-rech{
+    /* float:right; */
+    /* margin-right: 10%; */
+    margin-top: 105px;
+    margin-left: 5%;
+}
+
+.btn-accueil{
+    margin-left:65%;
+}
+
+.searchbar{
+    display: inline-block;
+}
+
+.searchbar-champ{
+    width: 600px;
+    height: 35px;
+    border-radius: 10px;
+}
+
+.searchbar-bouton{
+    background-repeat: no-repeat;
+    width: 35px;
+    height: 35px;
+    padding: 0;
+}
+
+.card{
+    max-width: 200px;
+    margin: 5%;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+    background-color: #E5E5E5;
+    border-radius: 15px;
+    position: relative;
+    float:left;
+}
+
+.card1{
+    max-width: 200px;
+    margin: 5%;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+    background-color: #E5E5E5;
+    border-radius: 15px;
+    position: relative;
+}
+
+.card2{
+    max-width: 200px;
+    margin: 5%;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+    background-color: #E5E5E5;
+    border-radius: 15px;
+    position: relative;
+
+}
